@@ -43,7 +43,7 @@ NoSQL: Conhecimentos básicos em bancos de dados não relacionais e modelagem de
 🔧 Ferramentas
 Git & GitHub: Controle de versão, criação de repositórios, commits, pull requests e versionamento de projetos.
 
-📚 Conhecimentos Gerais
+📚 Conhecimentos Gerais:
 Lógica de programação.
 Estruturas de dados básicas.
 Consumo de APIs REST.
