@@ -1,0 +1,17 @@
+body{
+font-family: Arial, sans-serif;
+background-color: lightblue;
+}
+.titulo-h, .paragrafo{
+    color: black;
+    text-align: center;
+    font-size: 36px;
+}
+.card {
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    padding-bottom: 0%;
+    border-radius: 10px;
+}
